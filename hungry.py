@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  5 14:32:01 2023
+hungry=input("Are you hungry?")
+if hungry=="yes":
+    print("Eat samosa")
+else:
 
-@author: raybb
-"""
-
-print("I'm hungry")
+    print("Do your homework")
